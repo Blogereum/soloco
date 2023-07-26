@@ -2,37 +2,37 @@
 
 /*=============== VARIABLES CSS ===============*/
 :root {
-  --header-height: 3rem;
+    --header-height: 3rem;
 
-  /*========== Colors ==========*/
-  --hue: 174;
-  --sat: 63%;
+    /*========== Colors ==========*/
+    --hue: 174;
+    --sat: 63%;
 
-  --first-color: ;
-  --first-color-alt: ;
-  --title-color: ;
-  --text-color: ;
-  --body-color: ;
-  --container-color: ;
+    --first-color: ;
+    --first-color-alt: ;
+    --title-color: ;
+    --text-color: ;
+    --body-color: ;
+    --container-color: ;
 
-  /*========== Font and typography ==========*/
-  --body-font: 'Open Sans', sans-serif;
+    /*========== Font and typography ==========*/
+    --body-font: 'Open Sans', sans-serif;
 
-  --h1-font-size: ;
-  --normal-font-size: ;
-  --tiny-font-size: ;
+    --h1-font-size: ;
+    --normal-font-size: ;
+    --tiny-font-size: ;
 
-  /*========== z index ==========*/
-  --z-tooltip: ;
-  --z-fixed: ;
+    /*========== z index ==========*/
+    --z-tooltip: ;
+    --z-fixed: ;
 }
 
 /* Responsive typography */
 @media screen and (min-width: 968px) {
-  :root {
-    --h1-font-size: ;
-    --normal-font-size: ;
-  }
+    :root {
+        --h1-font-size: ;
+        --normal-font-size: ;
+    }
 }
 
 /*=============== BASE ===============*/
