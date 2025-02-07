@@ -11,7 +11,7 @@
     --sat: 87%;
 
     /*=============== Colors ===============*/
-    --primary-color: hsl(var(--hue), var(--sat), 49%);
+    --primary-color: #D2AE4B;
 
     /*=============== Font and Typography ===============*/
     --main-font: 'Roboto', 'Roboto Flex', sans-serif;
